@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCF1R5Kr9Wl/?taken-by=kolafarms'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-09T23:31:21.184Z'
+dateModified: '2016-03-09T20:10:56.842Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1190592002588136869'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCF1R5Kr9Wl/?taken-by=kolafarms'
 title: "It's a beautiful thing! #kolafarms #cannabis #cannabiscommunity #marijuana #weed #calaverascounty"
-datePublished: '2016-03-09T03:37:23.567Z'
-dateModified: '2016-03-09T03:27:38.593Z'
 sourcePath: _posts/2016-03-09-its-a-beautiful-thing-kolafarms-cannabis-cannabiscommun.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![It's a beautiful thing&excl; &num;kolafarms &num;cannabis &num;cannabiscommunity &num;marijuana &num;weed &num;calaverascounty](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12747595_236657976671544_2005694776_n.jpg?ig_cache_key=MTE5MDU5MjAwMjU4ODEzNjg2OQ%3D%3D.2)
+![It's a beautiful thing! ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b98c0bbbe7d6bd1d8d3c8c69c8dd567e274cbe81.jpg)
