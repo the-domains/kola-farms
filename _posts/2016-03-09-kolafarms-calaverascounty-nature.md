@@ -1,39 +1,43 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCtidV3L9Tv/?taken-by=kolafarms'
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2016-03-09T05:40:18.964Z'
+dateModified: '2016-03-09T05:40:07.754Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
-  - url: 'instagram://media?id=1201768225498453231'
-    type: ios
+  - app_name: Instagram
     namespace: ai
-    app_name: Instagram
     app_store_id: '389801252'
-  - url: 'https://www.instagram.com/p/BCtidV3L9Tv/'
-    type: android
-    namespace: ai
+    url: 'instagram://media?id=1201768225498453231'
+    type: ios
+  - package: com.instagram.android
     app_name: Instagram
-    package: com.instagram.android
+    namespace: ai
+    url: 'https://www.instagram.com/p/BCtidV3L9Tv/'
+    type: android
   - path: https/instagram.com/p/BCtidV3L9Tv/
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCtidV3L9Tv/?taken-by=kolafarms'
 title: '#kolafarms #calaverascounty #nature'
-datePublished: '2016-03-09T03:34:44.289Z'
-dateModified: '2016-03-09T03:26:21.639Z'
+authors: []
+publisher:
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
 sourcePath: _posts/2016-03-09-kolafarms-calaverascounty-nature.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _type: Photograph
 _context: 'http://schema.org'
 
