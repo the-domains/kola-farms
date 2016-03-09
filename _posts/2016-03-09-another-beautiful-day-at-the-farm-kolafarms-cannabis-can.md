@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T20:11:47.644Z'
-dateModified: '2016-03-09T20:11:37.864Z'
+datePublished: '2016-03-09T23:27:52.150Z'
+dateModified: '2016-03-09T23:14:22.137Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Another beautiful day at the farm&period; &num;kolafarms &num;cannabis &num;cannabiscommunity &num;marijuana &num;weed &num;calaverascounty](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12716964_1557981521195727_426536512_n.jpg?ig_cache_key=MTE5MDgyODU5MTA1NDU3NDk5MA%3D%3D.2)
+![Another beautiful day at the farm. #kolafarms](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5e7b2bf0f71355bdcdc1d83b669cc136d652fea.jpg)
