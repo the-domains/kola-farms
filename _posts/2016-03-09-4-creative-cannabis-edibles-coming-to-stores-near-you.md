@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://highfinancereport.com'
-  name: Highfinancereport
-  favicon: null
-  domain: highfinancereport.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://highfinancereport.com/index.php/2016/03/07/4-creative-cannabis-edibles-coming-to-stores-near-you/'
+inLanguage: en
+starred: false
 keywords:
   - cbd
   - cannabis-infused
@@ -18,17 +17,20 @@ keywords:
   - product
   - cannabis
 description: 'This article was published on CannabisFN Cannabis edibles have transformed the industry by making cannabinoids like CBD and THC easier and more pleasant to consume than smoking. While cannabis-infused cookies and brownies have been around for a long time, several companies are developing imaginative new ways for both medical and recreational users to enjoy the drug.'
-inLanguage: en
+datePublished: '2016-03-09T23:15:37.651Z'
+dateModified: '2016-03-09T23:13:46.033Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://highfinancereport.com/index.php/2016/03/07/4-creative-cannabis-edibles-coming-to-stores-near-you/'
 title: 4 Creative Cannabis Edibles Coming to Stores Near You
-datePublished: '2016-03-09T23:13:37.392Z'
-dateModified: '2016-03-09T20:20:40.247Z'
 sourcePath: _posts/2016-03-09-4-creative-cannabis-edibles-coming-to-stores-near-you.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Highfinancereport
+  domain: highfinancereport.com
+  url: 'http://highfinancereport.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
