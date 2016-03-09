@@ -27,11 +27,11 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BCqmTq_r9ZN/?taken-by=kolafarms'
 title: 'Getting ready for the next turn! #kolafarms #cannabis #cannabiscommunity #marijuana #weed #calaverascounty'
-datePublished: '2016-03-09T05:40:18.983Z'
-dateModified: '2016-03-09T05:40:07.446Z'
+datePublished: '2016-03-09T05:42:13.494Z'
+dateModified: '2016-03-09T05:41:50.912Z'
 sourcePath: _posts/2016-03-09-getting-ready-for-the-next-turn-kolafarms-cannabis-canna.md
 published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
