@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-09T20:11:47.644Z'
+dateModified: '2016-03-09T20:11:37.864Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1190828591054574990'
     type: ios
@@ -25,15 +28,16 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCGrEtWL9WO/?taken-by=kolafarms'
-title: 'Another beautiful day at the farm. #kolafarms #cannabis #cannabiscommunity #marijuana #weed #calaverascounty'
-datePublished: '2016-03-09T03:37:23.488Z'
-dateModified: '2016-03-09T03:27:37.354Z'
+title: Another beautiful day at the farm.
 sourcePath: _posts/2016-03-09-another-beautiful-day-at-the-farm-kolafarms-cannabis-can.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+url: another-beautiful-day-at-the-farm/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
