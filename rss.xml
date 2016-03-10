@@ -4,7 +4,7 @@
         <description><![CDATA[Kola Farms  -  Locally Grown California Cannabis ]]></description>
         <link>https://thegrid.ai/kola-farms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 22:24:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kola-farms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kola Farms]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/kola-farms/contact-me/index.html</link>
             <guid isPermaLink="false">01ae7b11-2641-4f63-af7e-a8ceb4262287</guid>
             <pubDate>Thu, 10 Mar 2016 18:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://highfinancereport.com/wp-content/uploads/2016/03/IMGP4005-e1457373491653-770x470.jpg">]]></description>
-            <link>https://thegrid.ai/kola-farms/dbbb7f42-1139-46fc-969d-42e832870f03/index.html</link>
-            <guid isPermaLink="false">dbbb7f42-1139-46fc-969d-42e832870f03</guid>
-            <pubDate>Wed, 09 Mar 2016 23:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
