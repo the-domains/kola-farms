@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T23:30:36.532Z'
-dateModified: '2016-03-09T23:28:01.993Z'
+datePublished: '2016-03-10T15:55:00.813Z'
+dateModified: '2016-03-10T15:43:44.298Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
