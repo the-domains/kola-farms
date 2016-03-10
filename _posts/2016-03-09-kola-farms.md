@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Kola Farms is a locally owned and operated California marijuana farm in the heart of Calaveras County.
-datePublished: '2016-03-09T23:43:44.306Z'
-dateModified: '2016-03-09T23:30:27.173Z'
+datePublished: '2016-03-10T15:19:03.267Z'
+dateModified: '2016-03-09T23:43:47.769Z'
 title: Kola Farms
 author: []
 sourcePath: _posts/2016-03-09-kola-farms.md
