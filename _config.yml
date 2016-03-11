@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
+  saturation: 0.283208
   brandStrength: 0
-  lightness: 0.6875
+  lightness: 0.4580201
   brandColors:
     - '#eaeaea'
     - '#b09e92'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Kola Farms
 favicon: null
+name: Kola Farms
 opengraph:
   image: null
   type: null
