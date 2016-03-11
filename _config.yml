@@ -22,7 +22,7 @@ color:
     - '#170051'
     - '#312c68'
     - '#4b5b82'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.4849624
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Kola Farms
+favicon: null
 opengraph:
   image: null
   type: null
