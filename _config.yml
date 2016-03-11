@@ -1,4 +1,4 @@
-title: 'Kola Farms  -  Locally Grown California Cannabis '
+title: 'Locally Grown California Cannabis '
 purpose: []
 collections:
   - index:
@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0
-  brandStrength: 0.5
+  saturation: 0.5
+  brandStrength: 0.5043859
   lightness: 0.6875
   brandColors:
     - '#eaeaea'
@@ -22,7 +22,7 @@ color:
     - '#170051'
     - '#312c68'
     - '#4b5b82'
-  rhythmicContrast: 0.5612245
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.09982
-layout_spectrum: 0.7534909
+typography_spectrum: 0.05263158
+layout_spectrum: 0.641604
