@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kola Farms  -  Locally Grown California Cannabis ]]></title>
-        <description><![CDATA[Kola Farms  -  Locally Grown California Cannabis ]]></description>
+        <title><![CDATA[Locally Grown California Cannabis ]]></title>
+        <description><![CDATA[Locally Grown California Cannabis ]]></description>
         <link>https://thegrid.ai/kola-farms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 00:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 18:42:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kola-farms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["How Many Grams are in an Eighth?" and Other Cannabis Conversions]]></title>
+            <description><![CDATA[<article><h1>"How Many Grams are in an Eighth?" and Other Cannabis Conversions</h1><p>Why do math when you don't have to? Why wonder if your bag looks short? Why keep asking yourself 'What the hell is a zip?" We, at Marijuana.com, have done all the math and conversions for you here, so now you can be sure! From eighths to pounds, dime bags to zips, you'll never need...</p><img src="http://www.marijuana.com/wp-content/uploads/2016/02/onepound_text.jpg"></article>]]></description>
+            <link>http://www.marijuana.com/blog/news/2016/02/how-many-grams-are-in-an-eighth-and-other-cannabis-conversions/</link>
+            <guid isPermaLink="false">a2913cad-42a6-4885-9258-696fb2baee20</guid>
+            <pubDate>Fri, 11 Mar 2016 18:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#kolafarms The girls are getting ready! #cannabis #cannabiscommunity #marijuana #weed #calaverascounty]]></title>
+            <description><![CDATA[<article><h1>#kolafarms The girls are getting ready! #cannabis #cannabiscommunity #marijuana #weed #calaverascounty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e5f0b1fbdc19101d48620864093c8e30194abc6.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BCqmm64L9Z-/?taken-by=kolafarms</link>
+            <guid isPermaLink="false">a7427570-954d-43ac-b2e1-35287db3539c</guid>
+            <pubDate>Fri, 11 Mar 2016 00:18:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Marijuana Legalization: Cannabis Affects Ability To Process Emotion, New Study Says]]></title>
             <description><![CDATA[<article><h1>Marijuana Legalization: Cannabis Affects Ability To Process Emotion, New Study Says</h1><p>Marijuana can alter the way one processes their emotions, according to a new study. Colorado State University researchers found that pot can affect users' ability to recognize, process and "empathize with human emotions." The study, published Monday in the journal PLOS ONE, looked at the brain activities of 70 participants over the course of two years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55c1becd0e0f8c85c2148d0ed53a9cf5182023bd.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.instagram.com/p/BCqm4HAL9au/?taken-by=kolafarms</link>
             <guid isPermaLink="false">356c01ba-edda-4d0c-8bf7-47949a754e1f</guid>
             <pubDate>Fri, 11 Mar 2016 00:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#kolafarms #calaverascounty #nature]]></title>
-            <description><![CDATA[<article><h1>#kolafarms #calaverascounty #nature</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9ab72549ba49b7fa22a4768079bc897a5efb284.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCtidV3L9Tv/?taken-by=kolafarms</link>
-            <guid isPermaLink="false">15c9ef93-5868-401a-95b2-a167f32e3518</guid>
-            <pubDate>Fri, 11 Mar 2016 00:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><h2>Kola Farms - Locally Grown California Cannabis</h2><p>Kola Farms is a locally owned and operated California Cannabis farm in the heart of Calaveras County.</p></article>]]></description>
-            <link>https://thegrid.ai/kola-farms/about/index.html</link>
-            <guid isPermaLink="false">b9c3b88b-bdbd-4e6e-9c24-511ac2b6bbdf</guid>
-            <pubDate>Thu, 10 Mar 2016 23:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
