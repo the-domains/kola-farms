@@ -1,6 +1,6 @@
 name: Kola Farms
 favicon: null
-layout_spectrum: 0.6710526
+layout_spectrum: 0.69505
 typography_spectrum: 0.2374687
 title: 'Kola Farms - Locally Grown '
 collections:
@@ -36,6 +36,6 @@ color:
     - '#4b5b82'
   brandStrength: 0.5
   lightness: 0.75
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
