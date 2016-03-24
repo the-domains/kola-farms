@@ -1,5 +1,8 @@
+name: Kola Farms
+favicon: null
+layout_spectrum: 0.69505
+typography_spectrum: 0.2374687
 title: 'Kola Farms - Locally Grown '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5032223
-  brandStrength: 0.5
-  lightness: 0.5268528
   brandColors:
     - '#020302'
     - '#5C545C'
     - '#FF9A30'
     - '#FFFF88'
     - '#B43901'
-  rhythmicContrast: 0.5601504
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Kola Farms
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2374687
-layout_spectrum: 0.69505
+  brandStrength: 0.5
+  lightness: 0.5268528
+  saturation: 0.5032223
+  rhythmicContrast: 0.25
+purpose: []
