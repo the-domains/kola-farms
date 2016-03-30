@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCtQKjdr9Rp/?taken-by=kolafarms'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-30T14:34:16.187Z'
+dateModified: '2016-03-30T14:30:52.764Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1201687769595761769'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCtQKjdr9Rp/?taken-by=kolafarms'
-title: 'Glamping at the farm. #kolafarms #cannabis #cannabiscommunity #marijuana #weed #calaverascounty'
-datePublished: '2016-03-11T00:18:43.556Z'
-dateModified: '2016-03-10T23:18:54.134Z'
+title: 'Glamping at the farm. '
 sourcePath: _posts/2016-03-11-glamping-at-the-farm-kolafarms-cannabis-cannabiscommunit.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Glamping at the farm&period; &num;kolafarms &num;cannabis &num;cannabiscommunity &num;marijuana &num;weed &num;calaverascounty](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12783459_463604130507890_1796278247_n.jpg?ig_cache_key=MTIwMTY4Nzc2OTU5NTc2MTc2OQ%3D%3D.2)
+![Glamping at the farm. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ac8b09fb32dfed058dfca114f5342cdc072d4e2.jpg)
