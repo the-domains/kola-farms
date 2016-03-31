@@ -3,28 +3,29 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Let's connect. I would love to discuss your needs or brainstorm some ideas with you. Just shoot me an email or give me a call info@kola.farm"
-datePublished: '2016-03-10T18:50:50.962Z'
-dateModified: '2016-03-10T17:35:45.635Z'
-title: Contact Me
+datePublished: '2016-03-31T18:01:55.268Z'
+dateModified: '2016-03-30T15:18:53.635Z'
+title: Contact Us
 author: []
+sourcePath: _posts/2016-03-10-contact-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-contact-me.md
-published: true
 url: contact-me/index.html
 _type: Article
 
 ---
-# Contact Me
+# Contact Us
 
 Let's connect. I would love to discuss your needs or brainstorm some ideas with you. Just shoot me an email or give me a call [info@kola.farm][0]
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bda25ba121b4146bfb29a5e47bcdcef1cbb493d6.jpg)
 
 **Social Media**
 
@@ -33,7 +34,6 @@ Let's connect. I would love to discuss your needs or brainstorm some ideas with 
 [Instagram][2]
 
 [Twitter][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3d6b95-4e5d-4831-9e1d-abe199e78895.png)
 
 [0]: info@kola.farm
 [1]: https://www.facebook.com/goati.icleora/
