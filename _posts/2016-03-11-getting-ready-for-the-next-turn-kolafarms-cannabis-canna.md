@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCqmTq_r9ZN/?taken-by=kolafarms'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-31T19:05:03.067Z'
+dateModified: '2016-03-30T14:53:40.139Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1200940728250783309'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCqmTq_r9ZN/?taken-by=kolafarms'
-title: 'Getting ready for the next turn! #kolafarms #cannabis #cannabiscommunity #marijuana #weed #calaverascounty'
-datePublished: '2016-03-11T00:18:43.830Z'
-dateModified: '2016-03-10T23:18:49.559Z'
+title: 'Getting ready for the next turn!'
 sourcePath: _posts/2016-03-11-getting-ready-for-the-next-turn-kolafarms-cannabis-canna.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Getting ready for the next turn&excl; &num;kolafarms &num;cannabis &num;cannabiscommunity &num;marijuana &num;weed &num;calaverascounty](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/10859955_1748042008748424_610359830_n.jpg?ig_cache_key=MTIwMDk0MDcyODI1MDc4MzMwOQ%3D%3D.2)
+![Getting ready for the next turn! ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41c58d85e450f512be2f78bca772c8d91a5071e8.jpg)
