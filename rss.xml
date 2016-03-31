@@ -4,8 +4,15 @@
         <description><![CDATA[Kola Farms - Locally Grown ]]></description>
         <link>https://thegrid.ai/kola-farms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 14:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 18:02:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kola-farms/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Let's connect. I would love to discuss your needs or brainstorm some ideas with you. Just shoot me an email or give me a call info@kola.farm</p></article>]]></description>
+            <link>https://thegrid.ai/kola-farms/contact-me/index.html</link>
+            <guid isPermaLink="false">01ae7b11-2641-4f63-af7e-a8ceb4262287</guid>
+            <pubDate>Thu, 31 Mar 2016 18:01:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here we go! 6 more weeks.]]></title>
             <description><![CDATA[<article><h1>Here we go! 6 more weeks.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c03e1c30ef363f3b493c213ace1f28963d6b6158.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BCtQWWlL9R8/?taken-by=kolafarms</link>
             <guid isPermaLink="false">eebf85c7-b8d2-4c10-86ac-b43b9292b103</guid>
             <pubDate>Fri, 11 Mar 2016 00:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glamping at the farm. ]]></title>
-            <description><![CDATA[<article><h1>Glamping at the farm. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ac8b09fb32dfed058dfca114f5342cdc072d4e2.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BCtQKjdr9Rp/?taken-by=kolafarms</link>
-            <guid isPermaLink="false">d7374afb-ae2a-4c62-b92c-f20f3647aaf0</guid>
-            <pubDate>Wed, 30 Mar 2016 14:34:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
