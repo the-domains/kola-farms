@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCqmm64L9Z-/?taken-by=kolafarms'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-31T19:04:23.786Z'
+dateModified: '2016-03-30T14:54:02.603Z'
 author:
   - name: kolafarms
     url: 'https://www.instagram.com/kolafarms'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1200942050974881406'
     type: ios
@@ -25,17 +29,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCqmm64L9Z-/?taken-by=kolafarms'
-title: '#kolafarms The girls are getting ready! #cannabis #cannabiscommunity #marijuana #weed #calaverascounty'
-datePublished: '2016-03-11T00:18:44.109Z'
-dateModified: '2016-03-10T23:18:51.063Z'
+title: 'The girls are getting ready!'
 sourcePath: _posts/2016-03-11-kolafarms-the-girls-are-getting-ready-cannabis-cannabisc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&num;kolafarms The girls are getting ready&excl; &num;cannabis &num;cannabiscommunity &num;marijuana &num;weed &num;calaverascounty](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12328462_456936981178953_966976268_n.jpg?ig_cache_key=MTIwMDk0MjA1MDk3NDg4MTQwNg%3D%3D.2)
+![The girls are getting ready! ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e5f0b1fbdc19101d48620864093c8e30194abc6.jpg)
