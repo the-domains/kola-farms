@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5032223
+  saturation: 0.7674544
   brandStrength: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.7599356
   brandColors:
     - '#020302'
     - '#5C545C'
     - '#FF9A30'
     - '#FFFF88'
     - '#B43901'
-  lightness: 0.5268528
+  rhythmicContrast: 0.5204082
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Kola Farms
 favicon: null
+name: Kola Farms
 opengraph:
   image: null
   type: null
