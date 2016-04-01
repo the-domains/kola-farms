@@ -16,9 +16,9 @@ keywords:
   - thca
   - dose
   - cbd
-description: "Christy Shake is a 52-year old woman with the lean lines of a life-long swimmer. Competitive since childhood, she doesn't have much time for swimming these days as her hours are spent mainly taking care of and advocating for her severely disabled 12-year old son Calvin."
-datePublished: '2016-04-01T02:12:22.684Z'
-dateModified: '2016-03-15T21:03:07.982Z'
+description: ''
+datePublished: '2016-04-01T02:13:15.137Z'
+dateModified: '2016-04-01T02:12:55.598Z'
 author:
   - name: Elizabeth Aquino
     url: 'http://www.marijuana.com/blog/news/author/elizabethaquino/'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Making THCa At Home&amp;colon; An Interview with a Mother</h1><p>Christy Shake is a 52-year old woman with the lean lines of a life-long swimmer&amp;period; Competitive since childhood&amp;comma; she doesn't have much time for swimming these days as her hours are spent mainly taking care of and advocating for her severely disabled 12-year old son Calvin&amp;period;</p><img src="http://www.marijuana.com/wp-content/uploads/2016/03/Christy.jpg" /></article>
+<article style=""><h1>Making THCa At Home: An Interview with a Mother</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33769435ec7d0af50422efccc2ba051835c22b78.jpg" /></article>
