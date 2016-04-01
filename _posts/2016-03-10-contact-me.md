@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "Let's connect. I would love to discuss your needs or brainstorm some ideas with you. Just shoot me an email or give me a call info@kola.farm"
-datePublished: '2016-03-31T18:01:55.268Z'
-dateModified: '2016-03-30T15:18:53.635Z'
+datePublished: '2016-04-01T03:13:58.180Z'
+dateModified: '2016-04-01T03:13:18.242Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-03-10-contact-me.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-me/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Contact Us
