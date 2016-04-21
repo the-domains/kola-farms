@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0
   brandStrength: 0.3098818
-  lightness: 0.4935553
+  lightness: 0.697637
   brandColors:
     - '#020302'
     - '#5C545C'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Kola Farms
+favicon: null
 opengraph:
   image: null
   type: null
